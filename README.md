@@ -29,11 +29,11 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 then new terminal in that folder and enter playstore.py
 
-After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
+in code replace 24 and 39 line with with app name and text you want to submit..
 
-"You must login with your 10+ accounts, and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
+After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the Play Store in Chrome, automatically rate, and submit
 
-That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
+After completing one process, switch to another account and repeat the same process. If you need to perform this script with more accounts, simply add the code at the end to enable logging in with another account
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
