@@ -29,7 +29,7 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 then new terminal in that folder and enter playstore.py
 
-in code replace 24 and 39 line with with app name and text you want to submit..
+## in code replace 24 and 39 line with with app name and text you want to submit replace in below code also where its asked.
 
 After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the Play Store in Chrome, automatically rate, and submit
 
