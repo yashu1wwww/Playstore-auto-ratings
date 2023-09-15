@@ -23,11 +23,9 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 then new terminal in that folder and enter playstore.py
 
-## in code replace 24 and 39 line with with app name and text you want to submit replace in below code also where its asked.
+## in code replace 24 and 39 line with with app name and text to describe the app feature..
 
-After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the Play Store in Chrome, automatically rate, and submit
-
-After completing one process, switch to another account and repeat the same process. If you need to perform this script with more accounts, simply add the code at the end to enable logging in with another account
+After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the Play Store in Chrome, automatically rate, and submit thats It..
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
