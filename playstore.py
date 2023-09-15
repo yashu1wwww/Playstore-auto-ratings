@@ -36,4 +36,4 @@ driver.find_element_by_css_selector("#yDmH0d > div.VfPpkd-Sx9Kwc.cC1eCc.UDxLd.Pz
 time.sleep(3)
 driver.find_element_by_css_selector('#yDmH0d > div.VfPpkd-Sx9Kwc.cC1eCc.UDxLd.PzCPDd.HQdjr.VfPpkd-Sx9Kwc-OWXEXe-FNFY6c > div.VfPpkd-wzTsW > div > div > div > div > div:nth-child(3) > div > div > div > button > span').click() #submit button
 time.sleep(6)
-#just created code For Where Its Run Or Not That It..
+
