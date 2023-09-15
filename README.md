@@ -23,7 +23,7 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 then new terminal in that folder and enter playstore.py
 
-## in code replace 24 and 39 line with with app name and text to describe the app feature..
+## in code replace 24 and 35 line with with app name and review line to describe the app feature..
 
 After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the Play Store in Chrome, automatically rate, and submit thats It..
 
