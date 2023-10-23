@@ -1,6 +1,8 @@
 # Playstore-auto-ratings
 Playstore auto ratings using selenium with python on localhost
 
+## I searched on Google but couldn't find it, so I created it. That's it.
+
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 ## Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. The script is used to automatically like a particular YouTube video with multiple accounts
